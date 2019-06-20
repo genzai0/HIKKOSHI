@@ -1,0 +1,32 @@
+\documentclass[uplatex]{jsarticle} %titlepage
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{float}
+
+\title{トレースバックとトレースフォワード}
+\author{C0118005 A3 秋本　遥基}
+%\date{\now}
+
+\begin{document}
+
+\maketitle
+
+\section{トレースバックとトレースフォワードについて}
+
+　トレースバックとトレースフォワードとは、ある製品においてなんらかの異常が発覚した際に、その原因を突き止め同様の異常が発生していると思われる製品の特定のための仕組みである。トレースバックとは遡及を意味し、異常の特性や異常のあった製品自体の情報から異常の原因があると思われる出荷場所、その製造過程を明確に判明させることを指す。トレースフォワードとは追跡を意味し、異常があった製品と同生産ライン上にあった製品の出荷先を判明させることを指す。（参考：\cite{trace}）
+
+\section{要求場所}
+
+　トレースバックとトレースフォワードの特性として、生産ラインから大量のものが出荷される場である食品工場や乗用車、家電製品の工場で、消費者の安全及び生産者のブランド保護のため、異常が起こったときのために必要となる。（事例：\cite{news1}\cite{news2}）
+
+\section{感想}
+
+　トレースバックとトレースフォワードは社会にとって不可欠な施策であった。工場以外でも、普段のプログラミングでの出力の異常の際、情報処理のフローから異常のあったところまで遡及するなど、応用ができると感じた。いずれも全体の流れに十分な理解が必要であるので、これから個人でも心がけていきたい。
+
+\begin{thebibliography}{99}
+  \bibitem{trace} \verb+https://www.keyence.co.jp/ss/products/marker/traceability/basic_chase.jsp+
+  \bibitem{news1} \verb+https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%95%E3%83%+
+  \verb+BC%E3%82%BA%E8%BE%B2%E8%96%AC%E6%B7%B7%E5%85%A5%E4%BA%8B%E4%BB%B6+
+  \bibitem{news2} \verb+https://response.jp/article/2017/12/14/303738.html+
+\end{thebibliography}
+
+\end{document}

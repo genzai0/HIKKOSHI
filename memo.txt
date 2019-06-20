@@ -1,0 +1,4 @@
+default shell:
+
+<script src=https://gist.github.com/anonymous/a5fa37b387d76de7c94c28afcfbab3ad.js></script>
+https://gist.github.com/anonymous/a5fa37b387d76de7c94c28afcfbab3ad

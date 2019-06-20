@@ -1,0 +1,101 @@
+\documentclass[a4j]{jreport}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{float}
+
+\title{各言語における計算時間の測定}
+\author{C0118005 A3 秋本　遥基}
+\date{2018/07/09}
+
+\begin{document}
+\maketitle
+
+\chapter{序論}
+授業内でjavaを扱ったがこれから更にプログラミング技術を高めたり、開発、研究、制作をしていくうえで、私は他のプログラミング言語を使うという選択肢もあると考える。よって世の中で一般的と言われているjava言語であるが他の言語ではどのような形式で同じ動作をするものが作れるのか興味があったためこのテーマを書くことにした。
+今回は比較として書くのが平易でわかりやすいpython3系を使用した\footnote{この文書は\LaTeX{}を用いて作成された}。
+\chapter{数式について}
+本テーマは計算時間の測定が主題であるため、計算の難易が問われるものではない。よって比較的簡易な数式に取り組むこととした。調べたところ「フィボナッチ数列」がそれに該当した。
+\section{フィボナッチ数列とは}
+以下、参考である。\cite{fibwiki}\\
+
+n番目のフィボナッチ数を Fn で表すと、Fn は再帰的に
+\begin{eqnarray}
+ F_0 &=& 0 \\
+ F_1 &=& 1 \\
+ F_{n+2} &=& F_n + F_{n1} (n \ge 0)
+\end{eqnarray}
+で定義される。これは、2つの初期条件を持つ漸化式である。\\
+この数列($F_n$)はフィボナッチ数列（フィボナッチすうれつ、Fibonacci sequence）と呼ばれ… \\
+
+また、フィボナッチ数は加速度的に次項が大きくなる。以下にそれを示す。
+\begin{figure}[H]
+  \centering
+  \includegraphics[scale = 0.75]{fibonacci.eps}
+  \caption{フィボナッチ数の増加の様子}
+  \label{figure:fibonacci}
+  \end{figure}
+\section{求める項数とjavaの型について}
+フィボナッチ数列、第1000項目を求めると209桁になりjavaのlong型では溢れてしまう。\footnote{参照：図\ref{timelong:java}}
+したがってjavaのmathパッケージ\cite{jmath}を導入して計算が溢れないようにした。
+BigIntegerを宣言することによりlong型では扱うことのできない20桁を超える数を計算できる。\cite{mathmath}
+\section{実装の手順と拡張}
+同じような計算量になるように操作を統一した。なお、以下に操作の様子を記す。
+\begin{enumerate}
+\item 1000個の要素を持つ配列を作成
+\item 第一項を0、第二項を1と指定
+\item 第n項を第n-1項、第n-2項を参照して追加。
+\item 1000項まで求まったら最後の要素を出力する。
+\end{enumerate}
+また、計測の方法としてはtimeコマンドを用いた。
+\subsection{javaでの実装}
+上記の通り、mathパッケージを用いた。参考までにlong型で計算した様子も以下に示す。
+\begin{figure}[H]
+  \centering
+  \includegraphics[scale=0.5]{fibjava.eps}
+  \caption{fib.java}
+  \label{figure:java}
+\end{figure}
+
+また、long型だと以下のような結果となった。
+\begin{figure}[H]
+  \centering
+  \includegraphics[scale=0.75]{fibjav.eps}
+  \caption{timelong.java}
+  \label{timelong:java}
+\end{figure}
+\subsection{python3での実装}
+以下の図の通り、配列が存在しない\cite{py}ようだったのでlistオブジェクトで代用した。
+\begin{figure}[H]
+  \centering
+  \includegraphics[scale=0.7]{pyfib.eps}
+  \caption{fib.py}
+  \label{figure:python}
+\end{figure}
+\section{結果}
+timeコマンド\cite{time}で各動作がどれくらいの速度で終了したかを計測した。比較を以下に示す。
+\begin{table}[H]
+  \centering
+  \caption{timeコマンド}
+
+  \begin{tabular}{|c|c|c|c|}
+    \hline
+    値 & java(math) & java(long) & python3 \\
+    \hline
+    real & 0m0.156s & 0m0.138s & 0m0.071s \\
+    user & 0m0.109s & 0m0.115s & 0m0.031s \\
+    sys & 0m0.031s & 0m0.008s & 0m0.015s \\
+    \hline
+  \end{tabular}
+\end{table}
+\chapter{結論}
+javaとpython3で比較したがpython3の方が早かった。
+long型での比較もしたが、結果を見るとimportが直接的原因でないこともわかった。しかし、やはりimportするのとしないのでは処理時間は少なからず変わる。
+予測としてはハイブリッドであれコンパイラ型言語の方が早いと確信していたが、結果は逆であった。
+
+\begin{thebibliography}{99}
+\bibitem{fibwiki}https://ja.wikipedia.org/wiki/フィボナッチ数,フィボナッチ数,著者不明
+\bibitem{jmath}http://takitoshism.blogspot.com/2007/11/javabiginteger.html,akitooooooshism,A Takayasu
+\bibitem{py}https://www.python-izm.com/basic/array/,配列・連想配列,python-izm
+\bibitem{time}https://qiita.com/tossh/items/659e5934e52b38183200,timeコマンドでプログラムの実行時間を知る,@tossh
+  \bibitem{mathmath}http://www.techscore.com/tech/Java/JavaSE/Utility/7-3/,数値処理/数値の表現,techscore
+  \end{thebibliography}
+\end{document}

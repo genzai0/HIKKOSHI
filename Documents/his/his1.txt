@@ -1,0 +1,1000 @@
+ 1004  ls
+ 1005  mkdir pyqt
+ 1006  cd pyqt/
+ 1007  ls
+ 1008  ipconfig
+ 1009  ip
+ 1010  config
+ 1011  iconfig
+ 1012  ifconfig
+ 1013  hostname -I
+ 1014  ls
+ 1015  cd
+ 1016  ls
+ 1017  cd atc
+ 1018  ls
+ 1019  cd ..
+ 1020  ls
+ 1021  cd pythoner/
+ 1022  l
+ 1023  cd amalgam/
+ 1024  ls
+ 1025  cd ..
+ 1026  ls
+ 1027  cd bibliobattle/
+ 1028  ls
+ 1029  cd ..
+ 1030  ls
+ 1031  mkdir field
+ 1032  cd field/
+ 1033  sudo apt install xsel xclip
+ 1034  ls
+ 1035  vim a.py
+ 1036  xsel --clipboard < a.py
+ 1037  a = int(input())
+ 1038  print(a**3)
+ 1039  which .vimrc
+ 1040  find / -name .vimrc
+ 1041  cd /
+ 1042  which .vimrc
+ 1043  cd
+ 1044  ls
+ 1045  ls -a
+ 1046  cat .vim
+ 1047  cd .ivm
+ 1048  cd .vim
+ 1049  ls
+ 1050  ls -a
+ 1051  cat .netrwhist 
+ 1052  cd ..
+ 1053  ls
+ 1054  ls -a
+ 1055  vim .vimrc
+ 1056  vim --version | grep clipoard
+ 1057  vim --version | grep clipboard
+ 1058  echo $PATH
+ 1059  ls
+ 1060  cd pythoner/
+ 1061  ls
+ 1062  cd bibliobattle/
+ 1063  ls
+ 1064  cd..
+ 1065  ls
+ 1066  cd ..
+ 1067  cd field/
+ 1068  ls
+ 1069  vim rensyu.txt
+ 1070  ls
+ 1071  vim maketxt.py
+ 1072  python3 maketxt.py 
+ 1073  python3 maketxt.py >rensyu.txt
+ 1074  vim rensyu.txt 
+ 1075  cat rensyu.txt 
+ 1076  atom pe.txt
+ 1077  vim rensyu.txt 
+ 1078  atom pe.txt
+ 1079  reboot
+ 1080  backlight
+ 1081  reboot
+ 1082  ls
+ 1083  vi .vimrc
+ 1084  vi 
+ 1085  vi .vimrc
+ 1086  vi
+ 1087  vi .vimrc
+ 1088  vi
+ 1089  ls
+ 1090  ls -a
+ 1091  vim .bashrc
+ 1092  vi .bashrc 
+ 1093  ls
+ 1094  cd .config
+ 1095  l
+ 1096  cd nvim
+ 1097  ls
+ 1098  mkdir nvim
+ 1099  cd n
+ 1100  cd nvim/
+ 1101  ls
+ 1102  cd pythoner/
+ 1103  ls
+ 1104  cd field/
+ 1105  ls
+ 1106  vim rensyu.txt 
+ 1107  emacs
+ 1108  emacs txt.txt
+ 1109  ls
+ 1110  firefox
+ 1111  firefox &
+ 1112  vim txt.txt 
+ 1113  vim rensyu.txt 
+ 1114  nvim --version
+ 1115  neovim --version
+ 1116  sudo apt install neovim
+ 1117  nvim txt
+ 1118  vi ~/.vimrc 
+ 1119  cd
+ 1120  ls
+ 1121  cd .config/
+ 1122  ls
+ 1123  pwd
+ 1124  cd gitest/
+ 1125  ls
+ 1126  cd 
+ 1127  ls
+ 1128  git init
+ 1129  ls
+ 1130  cd gitest/
+ 1131  cd ..
+ 1132  ls
+ 1133  cd muscle/
+ 1134  ls
+ 1135  git init
+ 1136  ls -a
+ 1137  git remote add origin https://github.com/genzai0/test01.git
+ 1138  ls
+ 1139  git status
+ 1140  ls
+ 1141  vim training.txt 
+ 1142  ls
+ 1143  git status
+ 1144  git commit -m "last train 2018/9/17"
+ 1145  git status
+ 1146  git add training.txt 
+ 1147  git commit -m "last train 2018/9/17"
+ 1148  git status
+ 1149  git branch
+ 1150  git push origin master
+ 1151  git config --global core.editor
+ 1152  ls
+ 1153  touch a
+ 1154  git add a
+ 1155  git commit
+ 1156  ls
+ 1157  rm a
+ 1158  ls
+ 1159  git config --global core.editor vim
+ 1160  history
+ 1161  touch a
+ 1162  git add a
+ 1163  git commit
+ 1164  rm a
+ 1165  ls
+ 1166  cd ..
+ 1167  ls
+ 1168  mkdir tekitou
+ 1169  ls
+ 1170  cd tekitou/
+ 1171  ls
+ 1172  git remote add origin https://github.com/genzai0/test01.git
+ 1173  ls
+ 1174  echo "# SampleProject0917" >> README.md
+ 1175  ls -a
+ 1176  git init
+ 1177  ls -a
+ 1178  git remote add akimoto https://github.com/genzai0/test01.git
+ 1179  commit -m "first commit"
+ 1180  ls -a
+ 1181  init
+ 1182  add README.md
+ 1183  git add README.md
+ 1184  git commit -m "first commit"
+ 1185  push -u origin master
+ 1186  git push -u origin master
+ 1187  git push -u akimoto master
+ 1188  ls -a
+ 1189  history
+ 1190  git pull akimoto master
+ 1191  git push -uf akimoto master
+ 1192  ls
+ 1193  cd ..
+ 1194  ls
+ 1195  cd pythoner/
+ 1196  ls
+ 1197  cd field/
+ 1198  ls
+ 1199  git clone https://github.com/XMLPro/md_prac.git
+ 1200  ls
+ 1201  cd md_prac/
+ 1202  ls
+ 1203  git clone https://github.com/XMLPro/md_prac.git
+ 1204  ls
+ 1205  rm -r md_prac/
+ 1206  ls
+ 1207  echo ls
+ 1208  ls
+ 1209  atom nowmark.md
+ 1210  ls
+ 1211  git add nowmark.md 
+ 1212  git status
+ 1213  git commit -m "now-md 09/17"
+ 1214  git status
+ 1215  git push origin master
+ 1216  git pull origin maseter
+ 1217  git pull origin master
+ 1218  git push origin master
+ 1219  l
+ 1220  git pull origin master
+ 1221  l
+ 1222  git log
+ 1223  git pull -f origin master
+ 1224  l
+ 1225  git status
+ 1226  git checkout -b test
+ 1227  glo
+ 1228  git log
+ 1229  gcd maste5r
+ 1230  gcd master
+ 1231  git checkout master
+ 1232  git pull
+ 1233  git branch
+ 1234  git reset --hard HEAD~
+ 1235  git checkout origin\master
+ 1236  git checkout origin/master
+ 1237  git log
+ 1238  ls
+ 1239  git merge master
+ 1240  git cherry-pick test~
+ 1241  git cherry-pick test
+ 1242  git push origin master
+ 1243  l
+ 1244  git log
+ 1245  git push origin origin/master
+ 1246  ls
+ 1247  mv nowmark.md ../
+ 1248  cd ..
+ 1249  ls
+ 1250  rm -rf md_prac/
+ 1251  git clone https://github.com/XMLPro/md_prac.git
+ 1252  cd md_prac/
+ 1253  mv ../nowmark.md ./
+ 1254  ls
+ 1255  git status
+ 1256  git commit -m "now-md 09/17"
+ 1257  git add nowmark.md 
+ 1258  git commit -m "now-md 09/17"
+ 1259  git push -u origin master
+ 1260  cd
+ 1261  cd .ssh
+ 1262  mkdir .ssh
+ 1263  cd .ssh
+ 1264  ls
+ 1265  ssh-keygen --help
+ 1266  ssh-keygen
+ 1267  l
+ 1268  vi akimoto.pub 
+ 1269  nvim akimoto.pub 
+ 1270  nvim
+ 1271  ls -a
+ 1272  vim .config/
+ 1273  ls
+ 1274  cd .config/
+ 1275  ls
+ 1276  ls -a
+ 1277  cd nvim
+ 1278  ls
+ 1279  vim init.vim
+ 1280  nvim init.vim
+ 1281  ls
+ 1282  pwd
+ 1283  cd ..
+ 1284  ls
+ 1285  cd ..
+ 1286  ls
+ 1287  mkdir set
+ 1288  cd set
+ 1289  touch neovim.txt << /home/genzai/.config/nvim
+ 1290  touch /home/genzai/.config/nvim neovim.txt
+ 1291  ls
+ 1292  cat neovim.txt 
+ 1293  cd /home/genzai/.config/nvim
+ 1294  ls
+ 1295  cat init.vim 
+ 1296  cd
+ 1297  ls
+ 1298  cd set
+ 1299  ls
+ 1300  echo /home/genzai/.config/nvim
+ 1301  echo /home/genzai/.config/nvim >> neovim.txt 
+ 1302  cat neovim.txt 
+ 1303  cd
+ 1304  ls
+ 1305  cd muscle/
+ 1306  ls
+ 1307  cat run001.txt 
+ 1308  git --h
+ 1309  git --help
+ 1310  ls
+ 1311  cd ..
+ 1312  ls
+ 1313  cd gitest/
+ 1314  ls
+ 1315  cat README.txt 
+ 1316  cd ..
+ 1317  ls
+ 1318  cd Documents/
+ 1319  ls
+ 1320  cd ..
+ 1321  cd Documents/
+ 1322  ls
+ 1323  cd his/
+ 1324  ls
+ 1325  cat his.txt 
+ 1326  ls
+ 1327  cd pythoner/
+ 1328  ls
+ 1329  cd ..
+ 1330  ls
+ 1331  mkdir javaer
+ 1332  cd javaer/
+ 1333  ls
+ 1334  mkdir suckiri
+ 1335  cd suckiri/
+ 1336  mkdir dir01
+ 1337  cd dir01/
+ 1338  sudo apt list
+ 1339  sudo apt list | grep java
+ 1340  sudo apt list *java*
+ 1341  sudo apt search jdk
+ 1342  sudo apt search jvm
+ 1343  sudo apt search java
+ 1344  sudo apt install java
+ 1345  s
+ 1346  java -verison
+ 1347  java -verision
+ 1348  java -version
+ 1349  sudo apt update
+ 1350  sudo apt upgrade
+ 1351  javac -version
+ 1352  vim s0101.java 
+ 1353  javac s0101.java 
+ 1354  vim s0101.java 
+ 1355  javac s0101.java 
+ 1356  vim s0101.java 
+ 1357  java s0101.java
+ 1358  java s0101
+ 1359  vim s0102.java 
+ 1360  javac s0102.java 
+ 1361  vim s0102.java 
+ 1362  javac s0102.java 
+ 1363  vim s0102.java 
+ 1364  javac s0102.java 
+ 1365  vim s0102.java 
+ 1366  javac s0102.java 
+ 1367  java s0102
+ 1368  ls
+ 1369  cd ..
+ 1370  ls
+ 1371  cd ..
+ 1372  ls
+ 1373  cd ..
+ 1374  ls
+ 1375  cd atc/
+ 1376  ls
+ 1377  cd abc/
+ 1378  ls
+ 1379  cd c00/
+ 1380  ls
+ 1381  cd ..
+ 1382  ls
+ 1383  cd b00/
+ 1384  ls
+ 1385  vim abc059b.py
+ 1386  python3 abc059b.py
+ 1387  xsel 
+ 1388  xsel -h
+ 1389  xsel -b < abc059b.py 
+ 1390  vim abc059c.py
+ 1391  ls
+ 1392  cd 
+ 1393  ls
+ 1394  cd pythoner/
+ 1395  ls
+ 1396  cd cinnaon/
+ 1397  ls
+ 1398  mkdir systemlitchen
+ 1399  cd systemlitchen/
+ 1400  ls
+ 1401  mkdir code
+ 1402  cd code/
+ 1403  vim app.py
+ 1404  ls
+ 1405  vim sample.txt
+ 1406  ls
+ 1407  python3 app.py
+ 1408  vim app.py
+ 1409  python3 app.py
+ 1410  vim sample.txt
+ 1411  python3 app.py -h
+ 1412  python3 app.py -help
+ 1413  python3 app.py help
+ 1414  python3 app.py --help
+ 1415  vim 
+ 1416  vim app.py
+ 1417  python3 app.py --help
+ 1418  python3 app.py -help
+ 1419  python3 app.py help
+ 1420  vim app.py
+ 1421  python3 app.py help
+ 1422  vim app.py
+ 1423  reboot
+ 1424  ls
+ 1425  cd pythoner/
+ 1426  ls
+ 1427  cd web_scraping/
+ 1428  s
+ 1429  ls
+ 1430  cd ht/
+ 1431  ls
+ 1432  cat index.html 
+ 1433  cd ..
+ 1434  ls
+ 1435  cd..
+ 1436  cd ..
+ 1437  ls
+ 1438  cd cinnaon/
+ 1439  ls
+ 1440  cd ..
+ 1441  ls
+ 1442  cd bibliobattle/
+ 1443  ls
+ 1444  cd  ..
+ 1445  ls
+ 1446  cd amalgam/
+ 1447  ls
+ 1448  cd ..
+ 1449  ls
+ 1450  cd cinnaon/
+ 1451  ls
+ 1452  cd use_env/
+ 1453  ls
+ 1454  cd d_env/
+ 1455  ls
+ 1456  cd ..
+ 1457  ls
+ 1458  cd env/
+ 1459  ls
+ 1460  cd ..
+ 1461  las
+ 1462  ls
+ 1463  cd ..
+ 1464  ls
+ 1465  cd ..
+ 1466  ls
+ 1467  cd set
+ 1468  ls
+ 1469  cd ..
+ 1470  ls
+ 1471  pip freeze
+ 1472  python3 -m pip install requests
+ 1473  python3 -m pip install beautifulsoup4
+ 1474  ls
+ 1475  cd pythoner/
+ 1476  ls
+ 1477  cd cinnaon/
+ 1478  ls
+ 1479  cd systemlitchen/
+ 1480  ls
+ 1481  cd atcapp/
+ 1482  ls
+ 1483  atom scrape.py
+ 1484  ls
+ 1485  cd tekitou/
+ 1486  ls
+ 1487  cd ..
+ 1488  ls
+ 1489  cd Documents/
+ 1490  ls
+ 1491  cat
+ 1492  cat his
+ 1493  cd his
+ 1494  ls
+ 1495  cat his.txt 
+ 1496  sudo apt search electoron
+ 1497  sudo apt search elect
+ 1498  chromium
+ 1499  ls
+ 1500  cd pythoner/
+ 1501  ls
+ 1502  cd cinnaon/
+ 1503  ls
+ 1504  cd systemlitchen/
+ 1505  ls
+ 1506  cd code/
+ 1507  ls
+ 1508  atom app.py
+ 1509  app.py
+ 1510  python3 app.py
+ 1511  python3 app.py help
+ 1512  python3 app.py cat
+ 1513  python3 app.py 
+ 1514  python3 app.py help
+ 1515  python3 app.py -h
+ 1516  python3 app.py-h
+ 1517  python3 app.py  -h
+ 1518  python3 app.py cat
+ 1519  python3 app.py cat sample.txt 
+ 1520  python3 app.py cat -h
+ 1521  python3 app.py 
+ 1522  ls
+ 1523  cd ..
+ 1524  ls
+ 1525  cp code codechange
+ 1526  cp -r code codechange
+ 1527  ls
+ 1528  cd codechange/
+ 1529  ls
+ 1530  cd ..
+ 1531  ls
+ 1532  mv codechange/ atcapp
+ 1533  ls
+ 1534  cd atcapp/
+ 1535  l
+ 1536  atom app.py
+ 1537  python3 scrape.py 
+ 1538  atom app.py
+ 1539  python3 scrape.py 
+ 1540  atom app.py
+ 1541  python3 scrape.py 
+ 1542  ls
+ 1543  xrandr -q | grep "connected"
+ 1544  ls
+ 1545  mv app.py atc.py
+ 1546  ls
+ 1547  atom atc.py
+ 1548  python3 atc.py
+ 1549  python3 onlyscrape.py
+ 1550  ls
+ 1551  pwd
+ 1552  cd
+ 1553  ls
+ 1554  cd gitest/
+ 1555  ls
+ 1556  cd ..
+ 1557  ls
+ 1558  cd gitest/
+ 1559  ls
+ 1560  ls -a
+ 1561  git init
+ 1562  git remote add origin https://github.com/genzai0/atcapp
+ 1563  ls
+ 1564  rm -a
+ 1565  rm *
+ 1566  ls
+ 1567  ls -a
+ 1568  rm .git
+ 1569  rm -r .git
+ 1570  ls
+ 1571  git remote add origin https://github.com/genzai0/atcapp
+ 1572  git init
+ 1573  git remote add origin https://github.com/genzai0/atcapp
+ 1574  /home/genzai/pythoner/cinnaon/systemlitchen/atcapp
+ 1575  cp /home/genzai/pythoner/cinnaon/systemlitchen/atcapp/onlyscpare.py ./
+ 1576  ls
+ 1577  cp /home/genzai/pythoner/cinnaon/systemlitchen/atcapp/onlyscrape.py ./
+ 1578  ls
+ 1579  git add onlyscrape.py 
+ 1580  ls
+ 1581  git status
+ 1582  git commit -m "first commit 09/23"
+ 1583  git
+ 1584  git status
+ 1585  git branch
+ 1586  git push -u origin master
+ 1587  git branch
+ 1588  git push -u origin master
+ 1589  git push origin master
+ 1590  git config --global user.email "naminoyukusaki0311@gmail.com"
+ 1591  git config --global user.name "genzai0"
+ 1592  git status
+ 1593  git add onlyscrape.py 
+ 1594  git ststus
+ 1595  git status
+ 1596  git push -u origin master
+ 1597  ls
+ 1598  ls -a
+ 1599  cd .git/
+ 1600  ls
+ 1601  cd ..
+ 1602  ls
+ 1603  cd ..
+ 1604  ls
+ 1605  rm -r gitest
+ 1606  ls
+ 1607  cd gitest/
+ 1608  ls -a
+ 1609  cd ..
+ 1610  ls
+ 1611  atom
+ 1612  ls
+ 1613  cd pythoner/
+ 1614  ls
+ 1615  cd cinnaon/
+ 1616  ls
+ 1617  cd use_env/
+ 1618  ls
+ 1619  cat active.sh 
+ 1620  source /home/genzai/pythoner/cinnaon/use_env/env/bin/activate
+ 1621  pip install anaconda
+ 1622  deactive
+ 1623  deactivate
+ 1624  sudo apt install pyenv
+ 1625  ls
+ 1626  cd ..
+ 1627  ls
+ 1628  git clone https://github.com/pyenv/pyenv ~/.pyenv
+ 1629  cd 
+ 1630  vim .bashrc
+ 1631  git clone https://github.com/pyenv/pyenv ~/.pyenv
+ 1632  vim .bashrc
+ 1633  pyenv -v
+ 1634  pyenv --list
+ 1635  pyenv virtualenv-init -
+ 1636  l
+ 1637  vi .bashrc
+ 1638  res
+ 1639  exit
+ 1640  ls
+ 1641  cd pythoner/
+ 1642  ls
+ 1643  cd cinnaon/
+ 1644  ls
+ 1645  cd systemlitchen/
+ 1646  ls
+ 1647  cd atcapp/
+ 1648  ls
+ 1649  pwd
+ 1650  ls
+ 1651  touch data1.txt data2.txt data3.txt
+ 1652  ls
+ 1653  python3  atc.py
+ 1654  ls
+ 1655  python3  atc.py
+ 1656  python3 atc.py atc
+ 1657  python3 atc.py
+ 1658  python3 atc.py help
+ 1659  python3 atc.py atc
+ 1660  python3 atc.py 
+ 1661  python3 atc.py help
+ 1662  python3 atc.py 
+ 1663  python3 atc.py help
+ 1664  python3 atc.py 
+ 1665  python3 atc.py IOprint
+ 1666  python3 atc.py makeIOfile
+ 1667  ls
+ 1668  python3 atc.py makeIOfile
+ 1669  python3 atc.py printIO
+ 1670  python3 atc.py IOprint
+ 1671  sudo apt search pycharm
+ 1672  python3 atc.py printIO
+ 1673  python3 atc.py IOprint
+ 1674  python3 atc.py IOprint -h
+ 1675  python3 atc.py IOprint 
+ 1676  python3 atc.py makeIOfile
+ 1677  ls
+ 1678  cat inputsample1.txt 
+ 1679  atom
+ 1680  ls[
+ 1681  ls
+ 1682  cd pythoner/
+ 1683  ls
+ 1684  cd cinnaon/
+ 1685  ls
+ 1686  cd pyene/
+ 1687  ls
+ 1688  atom .
+ 1689  python -m pip install chainer
+ 1690  python3 -m pip install chainer
+ 1691  python -m pip install tensorflow
+ 1692  python -m pip install msgpack
+ 1693  pip install --upgrade pip
+ 1694  python pip install chainer
+ 1695  python -m pip install 
+ 1696  python pip install tensorflow
+ 1697  python -m pip install tensorflow
+ 1698  python -m pip install numpy
+ 1699  python3 -m pip install chainer
+ 1700  ls
+ 1701  cd 
+ 1702  ls
+ 1703  cd pythoner/
+ 1704  ls
+ 1705  cd shellist/
+ 1706  ls
+ 1707  mkdir receive
+ 1708  cd receive/
+ 1709  vim receive.sh
+ 1710  ./receive.sh
+ 1711  chmod 755 receive.sh 
+ 1712  ./receive.sh
+ 1713  ls
+ 1714  mkdir teest
+ 1715  cd teest/
+ 1716  ls
+ 1717  ../receive.sh
+ 1718  ls
+ 1719  vim a.py
+ 1720  ../receive.sh
+ 1721  ls
+ 1722  cat inputsample1.txt 
+ 1723  ls
+ 1724  cd ..
+ 1725  ls
+ 1726  vim receive.sh 
+ 1727  cd teest/
+ 1728  ../receive.sh
+ 1729  ls
+ 1730  ../receive.sh
+ 1731  ls
+ 1732  vi inputsample1.txt 
+ 1733  bi outputsample1.txt 
+ 1734  vi outputsample1.txt 
+ 1735  l
+ 1736  cd.
+ 1737  cd ..
+ 1738  l
+ 1739  vi receive.sh 
+ 1740  cd teest/
+ 1741  l
+ 1742  cd 
+ 1743  ls
+ 1744  cd pythoner/
+ 1745  ls
+ 1746  cd 
+ 1747  ls
+ 1748  mkdir nodeman
+ 1749  cd nodeman/
+ 1750  git clone https://github.com/genzai0/atam.git
+ 1751  ls
+ 1752  cd atam
+ 1753  ls
+ 1754  cd experiment/
+ 1755  ls
+ 1756  mkdir genzai
+ 1757  cd genzai/
+ 1758  cd
+ 1759  vi .bashrc
+ 1760  ls
+ 1761  exit
+ 1762  ls
+ 1763  l
+ 1764  la
+ 1765  vim .bashrm
+ 1766  vim .bashrc
+ 1767  yes lets-genzai
+ 1768  yes 
+ 1769  findmnt
+ 1770  l
+ 1771  pyenv -v
+ 1772  pyenv list
+ 1773  pyenv --list
+ 1774  pyenv -h
+ 1775  pyenv version
+ 1776  pyenv -list
+ 1777  pyenv install --list
+ 1778  pyenv install anaconda3-5.2.0
+ 1779  cd pythoner/
+ 1780  ls
+ 1781  cd cinnaon/
+ 1782  ls
+ 1783  mkdir pyene
+ 1784  cd pyene
+ 1785  ls
+ 1786  pyenv local anaconda3-5.2.0 
+ 1787  ls
+ 1788  ls -a
+ 1789  cat .python-version 
+ 1790  activate
+ 1791  atom .
+ 1792  sudo python3 -m pip install ipykernel
+ 1793  sudo python3 -m ipykernel install -user
+ 1794  sudo python3 -m ipykernel install --user
+ 1795  atom .
+ 1796  sudo python -m ipykernel install --user
+ 1797  sudo python -m pip install ipykernel
+ 1798  atom .
+ 1799  cd ..
+ 1800  ls
+ 1801  cd systemlitchen/
+ 1802  ls
+ 1803  cd atcapp/
+ 1804  ls
+ 1805  cd
+ 1806  ls
+ 1807  cd ~
+ 1808  ls
+ 1809  vim pr.py
+ 1810  cd ..
+ 1811  ls
+ 1812  cd
+ 1813  cd muscle/
+ 1814  ls
+ 1815  python3 /~/pr.py
+ 1816  python3 ~/pr.py
+ 1817  cd
+ 1818  ls
+ 1819  cd pythoner/
+ 1820  ls
+ 1821  cd cinnaon/
+ 1822  ls
+ 1823  cd systemlitchen/
+ 1824  ls
+ 1825  cd atx
+ 1826  cd atcapp/
+ 1827  ls
+ 1828  pwd
+ 1829  ls
+ 1830  cd ../..
+ 1831  lsc
+ 1832  cd systemlitchen/
+ 1833  ls
+ 1834  cd ..
+ 1835  ls
+ 1836  cd ..
+ 1837  ls
+ 1838  cd receive/
+ 1839  ls
+ 1840  cat 
+ 1841  cat 1
+ 1842  ls
+ 1843  cat receive.sh 
+ 1844  rm 1
+ 1845  ls
+ 1846  vim receive.sh 
+ 1847  sudo apt install brightness-controller
+ 1848  xbacklight -set 50
+ 1849  xrandr --output eDP-1 --brightness 0.7
+ 1850  sudo vim /etc/default/grub
+ 1851  sudo update-grub
+ 1852  reboot
+ 1853  atom
+ 1854  ls
+ 1855  cd pythoner/
+ 1856  ls
+ 1857  cd shellist/
+ 1858  ks
+ 1859  ls
+ 1860  cd receive/
+ 1861  ls
+ 1862  vim receive.sh 
+ 1863  ls
+ 1864  cd teest/
+ 1865  ls
+ 1866  ../receive.sh 
+ 1867  vim ../receive.sh 
+ 1868  ../receive.sh 
+ 1869  vim ../receive.sh 
+ 1870  ../receive.sh 
+ 1871  ls
+ 1872  ../receive.sh 
+ 1873  vim ../receive.sh 
+ 1874  ../receive.sh 
+ 1875  vim ../receive.sh 
+ 1876  ../receive.sh 
+ 1877  vim ../receive.sh 
+ 1878  ../receive.sh 
+ 1879  vim ../receive.sh 
+ 1880  ../receive.sh 
+ 1881  vim ../receive.sh 
+ 1882  ../receive.sh 
+ 1883  vim ../receive.sh 
+ 1884  ../receive.sh 
+ 1885  vim ../receive.sh 
+ 1886  ../receive.sh 
+ 1887  vim ../receive.sh 
+ 1888  ../receive.sh 
+ 1889  vim ../receive.sh 
+ 1890  ../receive.sh 
+ 1891  cd
+ 1892  ls
+ 1893  cd tekitou/
+ 1894  ls
+ 1895  cat README.md 
+ 1896  ls
+ 1897  man ls
+ 1898  man history
+ 1899  man /history
+ 1900  man history
+ 1901  git clone https://github.com/ryuichiueda/ShellGeiData/blob/master/sd201701/files.txt
+ 1902  git clone https://github.com/ryuichiueda/ShellGeiData/blob/master/sd201701
+ 1903  git clone https://github.com/ryuichiueda/ShellGeiData/blob/master/sd201701ls
+ 1904  ls
+ 1905  git clone https://github.com/ryuichiueda/ShellGeiData/blob/master/sd201701
+ 1906  git clone 
+ 1907  git clone ShellGeiData/sd201701/files.txt
+ 1908  git clone git://github.com/ryuichiueda/ShellGeiData/blob/master/sd201701
+ 1909  git clone git://github.com/ryuichiueda/ShellGeiData/blob/master/sd201701/files.txt
+ 1910  git clone git://
+ 1911  git clone git:/
+ 1912  git clone https://github.com/ryuichiueda/ShellGeiData/blob/master/sd201701/files.txt
+ 1913  git clone https://github.com/ryuichiueda/ShellGeiData/blob/master/sd201701/
+ 1914  ls -a
+ 1915  cd ..
+ 1916  ls
+ 1917  mkdir cl
+ 1918  cd cl
+ 1919  git clone https://github.com/ryuichiueda/ShellGeiData/blob/master/sd201701/
+ 1920  rm cl
+ 1921  cd ..
+ 1922  rmdir cl
+ 1923  ls
+ 1924  cd tekitou/
+ 1925  ls
+ 1926  cat << EOF > files.txt
+ 1927  test.txt
+ 1928  test.exe
+ 1929  画面仕様書_v2.0.xls
+ 1930  画面仕様書.xls.exe
+ 1931  secret file.md
+ 1932  画面仕様書_改訂版.xlsx
+ 1933  画面仕様書_最新バージョン.xls
+ 1934  README.md
+ 1935  秘密のファイル.exe.jpeg
+ 1936  LICENSE
+ 1937  execution.sh
+ 1938  packman_exe
+ 1939  重要書類.doc
+ 1940  EOF
+ 1941  cat files.txt 
+ 1942  tac files.txt
+ 1943  man tac
+ 1944  cat files.txt | grep .exe
+ 1945  cat files.txt | if in  .exe echo
+ 1946  cat files.txt | grep *.exe
+ 1947  grep '\.exe' files.txt
+ 1948  grep '\.exe$' files.txt
+ 1949  cat files.txt | sed -n '/.exe$/p'
+ 1950  cat files.txt | sed -n '/\.exe$/p'
+ 1951  cat files.txt | sed -n '/\.exe$/'
+ 1952  cat files.txt | sed -n '/\.exe$/p'
+ 1953  cat files.txt | awk '/\.exe$/'
+ 1954  cat files.txt | perl -ne '/\.exe$/ and print'
+ 1955  python3
+ 1956  l
+ 1957  wget https://raw.githubusercontent.com/ryuichiueda/ShellGeiData/master/sd201701/files.txt
+ 1958  l
+ 1959  python
+ 1960  python 
+ 1961  python3
+ 1962  ls
+ 1963  exec
+ 1964  ls
+ 1965  python3
+ 1966  vi
+ 1967  node
+ 1968  pip
+ 1969  sudo apt install npm
+ 1970  sudo npm install n
+ 1971  sudo npm install -g n
+ 1972  sudo n latest
+ 1973  sudo n
+ 1974  sudo n 8.12.0
+ 1975  n
+ 1976  sudo n
+ 1977  sudo npm install -g electron
+ 1978  ls
+ 1979  cd tekitou/
+ 1980  ls
+ 1981  mkdir test
+ 1982  screenfetch
+ 1983  sudo apt install screenfetch
+ 1984  screenfetch 
+ 1985  mkdir test
+ 1986  cd test/
+ 1987  sudo npm install electron
+ 1988  cd ..
+ 1989  mdir -r test
+ 1990  mkdir -r test
+ 1991  l
+ 1992  rmdir -r test
+ 1993  rm -r test
+ 1994  l
+ 1995  emavs -nw
+ 1996  emacs -nw
+ 1997  ls
+ 1998  cd Documents/
+ 1999  ls
+ 2000  cd hi
+ 2001  cd his
+ 2002  ls
+ 2003  history > his1.txt

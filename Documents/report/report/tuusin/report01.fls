@@ -1,0 +1,104 @@
+PWD /home/genzai/Documents/report/report/tuusin
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/euptex/uplatex.fmt
+INPUT /home/genzai/Documents/report/report/tuusin/report01.tex
+OUTPUT /home/genzai/Documents/report/report/tuusin/report01.log
+INPUT /usr/share/texlive/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+INPUT /usr/share/texlive/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/platex/jsclasses/jslogo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/platex/jsclasses/jslogo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/platex/jsclasses/jslogo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /home/genzai/Documents/report/report/tuusin/report01.aux
+INPUT /home/genzai/Documents/report/report/tuusin/report01.aux
+OUTPUT /home/genzai/Documents/report/report/tuusin/report01.aux
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+OUTPUT /home/genzai/Documents/report/report/tuusin/report01.dvi
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.2/sin.png
+INPUT extractbb -B cropbox -O ./tuusin1.2/sin.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.2/square500.png
+INPUT extractbb -B cropbox -O ./tuusin1.2/square500.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.2/triangle500.png
+INPUT extractbb -B cropbox -O ./tuusin1.2/triangle500.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.2/cd01.png
+INPUT extractbb -B cropbox -O ./tuusin1.2/cd01.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.2/cd02.png
+INPUT extractbb -B cropbox -O ./tuusin1.2/cd02.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.2/sqmake00.png
+INPUT extractbb -B cropbox -O ./tuusin1.2/sqmake00.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.2/sqmake01.png
+INPUT extractbb -B cropbox -O ./tuusin1.2/sqmake01.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.3/sin05.png
+INPUT extractbb -B cropbox -O ./tuusin1.3/sin05.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.3/sin75.png
+INPUT extractbb -B cropbox -O ./tuusin1.3/sin75.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.3/sin10.png
+INPUT extractbb -B cropbox -O ./tuusin1.3/sin10.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.3/sin70.png
+INPUT extractbb -B cropbox -O ./tuusin1.3/sin70.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.3/sin20.png
+INPUT extractbb -B cropbox -O ./tuusin1.3/sin20.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.3/sin60.png
+INPUT extractbb -B cropbox -O ./tuusin1.3/sin60.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.3/sin30.png
+INPUT extractbb -B cropbox -O ./tuusin1.3/sin30.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.3/sin50.png
+INPUT extractbb -B cropbox -O ./tuusin1.3/sin50.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.4/diff4.png
+INPUT extractbb -B cropbox -O ./tuusin1.4/diff4.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.4/diff6.png
+INPUT extractbb -B cropbox -O ./tuusin1.4/diff6.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.4/diff8.png
+INPUT extractbb -B cropbox -O ./tuusin1.4/diff8.png
+INPUT /home/genzai/Documents/report/report/tuusin/./tuusin1.4/gra.png
+INPUT extractbb -B cropbox -O ./tuusin1.4/gra.png
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT /home/genzai/Documents/report/report/tuusin/report01.aux

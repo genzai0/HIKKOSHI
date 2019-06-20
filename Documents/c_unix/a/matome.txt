@@ -1,0 +1,7 @@
+copiler: sudo apt install build-essential
+conpile: gcc -o [] file
+read   : ./ []
+
+
+
+

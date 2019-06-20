@@ -1,0 +1,51 @@
+\documentclass[uplatex]{jsarticle} %titlepage
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{float}
+
+\title{アクティブラーニング12.4}
+\author{C0118005 A3 秋本　遥基}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section{無向グラフ}
+
+\[
+  A = \left(
+    \begin{array}{rrrr}
+      0 & 1 & 4 & 0 \\
+      1 & 0 & 2 & 0 \\
+      4 & 2 & 0 & 5 \\
+      0 & 0 & 5 & 0 \\
+    \end{array}
+  \right)
+\]
+
+ここで、橋となっているのは$ \upsilon_３\upsilon_４$間であるため、$ \upsilon_３\upsilon_４$のエッジを通りつつ、以降の場所で一番軽い順序をたどれば良い。
+したがって、$ \upsilon_２$ノードを除いた「$ \upsilon_１\upsilon_３\upsilon_４$」の順番であり、重みは$9$である。
+
+\section{有向グラフ}
+
+\[
+  A = \left(
+    \begin{array}{rrrr}
+      0 & 1 & 4 & 0 \\
+      0 & 0 & 0 & 0 \\
+      0 & 2 & 0 & 5 \\
+      0 & 0 & 0 & 0 \\
+    \end{array}
+  \right)
+\]
+
+無向グラフと同様に橋は$ \upsilon_３\upsilon_４$間である。また、$ \upsilon_２$ノードは他ノードに向かうエッジが存在しないため選択肢から除外される。
+したがって、「$ \upsilon_１\upsilon_３\upsilon_４$」の順番であり、重みは$9$である。
+
+\section{違い}
+
+有向グラフと無向グラフの大きな違いは行列に表したときに上記のように被りがあるか、ないかである。しかし、ノード数が同様であり、今回はないが有向グラフでもループする区間を持つこともできるので２つの計算量は変わらないものと思われる。
+
+%\begin{thebibliography}{99}
+%\end{thebibliography}
+
+\end{document}

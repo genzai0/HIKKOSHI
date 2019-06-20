@@ -1,0 +1,203 @@
+This is e-upTeX, Version 3.14159265-p3.7.1-u1.22-161114-2.6 (utf8.uptex) (TeX Live 2017/Debian) (preloaded format=uplatex 2018.10.24)  15 NOV 2018 04:05
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**excel03repo.tex
+(/home/genzai/Documents/report/report/excel/excel03repo.tex
+pLaTeX2e <2017/10/28u01>+4 (based on LaTeX2e <2017-04-15>)
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+Document Class: jsarticle 2017/10/04 jsclasses (okumura, texjporg)
+\jsc@mpt=\dimen118
+\jsc@mmm=\dimen119
+\jsc@smallskipamount=\skip41
+LaTeX Info: Redefining \rmfamily on input line 471.
+LaTeX Info: Redefining \sffamily on input line 474.
+LaTeX Info: Redefining \ttfamily on input line 477.
+LaTeX Info: Redefining \textmc on input line 481.
+LaTeX Info: Redefining \textgt on input line 483.
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY2/mc/m/n --> JY2/gt/m/n on input line 545.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 736.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 736.
+\fullwidth=\dimen120
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 889.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 889.
+\c@part=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\@abstractbox=\box42
+\c@figure=\count88
+\c@table=\count89
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\jsc@tocl@width=\dimen121
+\@lnumwidth=\dimen122
+\bibindent=\dimen123
+(/usr/share/texlive/texmf-dist/tex/platex/jsclasses/jslogo.sty
+Package: jslogo 2017/02/24 okumura, texjporg
+LaTeX Info: Redefining \TeX on input line 94.
+LaTeX Info: Redefining \LaTeX on input line 147.
+LaTeX Info: Redefining \LaTeXe on input line 200.
+)
+\heisei=\count90
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks16
+\float@box=\box43
+\@float@everytoks=\toks17
+\@floatcapt=\box44
+) (/home/genzai/Documents/report/report/excel/excel03repo.aux)
+\openout1 = `excel03repo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 15.9785pt on input line 10.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 15.9785pt on input line 10.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 10.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 5.5481pt on input line 10.
+ [1
+
+]
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 12.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 12.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 12.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 12.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 28.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 30.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 30.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 4.62341pt on input line 30.
+File: ./fffff/f1.png Graphic file (type bmp)
+<./fffff/f1.png>
+
+Overfull \hbox (34.52635pt too wide) in paragraph at lines 40--41
+ [] 
+ []
+
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 41.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 41.
+File: ./fffff/f2.png Graphic file (type bmp)
+<./fffff/f2.png>
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 37--53
+ [][][][] 
+ []
+
+File: ./fffff/ffffff/f8.png Graphic file (type bmp)
+<./fffff/ffffff/f8.png>
+File: ./fffff/ffffff/f9.png Graphic file (type bmp)
+<./fffff/ffffff/f9.png>
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 59--75
+ [][][][] 
+ []
+
+[1]
+File: fffff/f3.png Graphic file (type bmp)
+<fffff/f3.png>
+File: fffff/f4.png Graphic file (type bmp)
+<fffff/f4.png>
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 87--104
+ [][][][] 
+ []
+
+File: fffff/f5.png Graphic file (type bmp)
+<fffff/f5.png>
+File: fffff/f7.png Graphic file (type bmp)
+<fffff/f7.png>
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 115--129
+ [][][][] 
+ []
+
+[2]
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 140.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 140.
+ [3] (/home/genzai/Documents/report/report/excel/excel03repo.aux) ) 
+Here is how much of TeX's memory you used:
+ 962 strings out of 493636
+ 12080 string characters out of 6150721
+ 73546 words of memory out of 5000000
+ 4591 multiletter control sequences out of 15000+600000
+ 13375 words of font info for 67 fonts, out of 8000000 for 9000
+ 934 hyphenation exceptions out of 8191
+ 25i,12n,21p,1125b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on /home/genzai/Documents/report/report/excel/excel03repo.dvi (4 pages, 9492 bytes).

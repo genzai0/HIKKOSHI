@@ -1,0 +1,1000 @@
+  273  sudo apt install fcc
+  274  fcc hello.c
+  275  ls
+  276  a.out
+  277  mv a.out hello
+  278  hello
+  279  ls
+  280  cat hello
+  281  return
+  282  ls
+  283  gcc -o prtextf prtextf.c
+  284  ls
+  285  prtextf
+  286  ls
+  287  gcc -o Heloo hello.c
+  288  Hello
+  289  ls
+  290  a.out
+  291  ls
+  292  gcc hello.c
+  293  ls
+  294  a.out
+  295  ls
+  296  vim hello.c
+  297  gcc hello.c
+  298  a.out
+  299  ./hello c
+  300  cd ..
+  301  ls
+  302  cd a
+  303  ls
+  304  ./Hello
+  305  ./Hello c
+  306  ./hello c
+  307  ls
+  308  ./hello
+  309  ./Hello
+  310  ./a.out
+  311  cat > matome.txt
+  312  ls
+  313  cat > matome.txt
+  314  ls
+  315  cat matome.txt 
+  316  cd ..
+  317  ls
+  318  mkdir b
+  319  cd b
+  320  ls
+  321  vim thpr.c
+  322  gcc -o thpr thpr.c
+  323  ls
+  324  ./thpr
+  325  ls
+  326  vim tensu.c
+  327  gcc -o test tensu.c
+  328  vim tensu.c
+  329  gcc -o test tensu.c
+  330  ./test
+  331  firefox &
+  332  ls
+  333  cd ..
+  334  ls
+  335  cd ..
+  336  ls
+  337  sudo apt update
+  338  sudo apt upgrade
+  339  sudo apt search gparted
+  340  sudo apt install gparted
+  341  gparted
+  342  ls
+  343  sudo apt search swift
+  344  firefox &
+  345  sudo apt update
+  346  sudo apt install clang libicu-dev libcur14-openssl-dev livssl-dev
+  347  ls
+  348  cd Downloads/
+  349  ls
+  350  evince lf_os_devel_model.pdf 
+  351  sudo apt install evince
+  352  sudo apt install latex
+  353  sudo apt search latex
+  354  sudo apt search dvipdfmx
+  355  sudo apt install dvipdfmx
+  356  evince lf_os_devel_model.pdf 
+  357  gcc -v
+  358  sudo apt search clang
+  359  firefox &
+  360  ls
+  361  mkdir atc
+  362  ls
+  363  cd atc
+  364  mkdir abc
+  365  ls
+  366  cd abc
+  367  ls
+  368  atom abc090b.py
+  369  python3
+  370  ls
+  371  python3 abc090b.py
+  372  python3
+  373  python3 abc090b.py
+  374  firefox
+  375  sudo apt update
+  376  firefox &
+  377  reboot
+  378  sudo apt search vim
+  379  sudo apt update
+  380  ls
+  381  firefox 6
+  382  firefox &
+  383  reboot
+  384  firefox &
+  385  ipxonfig
+  386  ipconfig
+  387  ip config
+  388  ip 
+  389  ls
+  390  sudo apt update
+  391  ls
+  392  firefox &
+  393  ls
+  394  firefox &
+  395  ls
+  396  sudo apt update
+  397  xbacklight -50
+  398  xbacklight  set -50
+  399  xbacklight  set 50
+  400  xbacklight set 50
+  401  xbacklight get
+  402  xbacklight -get
+  403  xbacklight -set 50
+  404  ls
+  405  cd pythoner/
+  406  ls
+  407  am
+  408  cd amalgam/
+  409  ls
+  410  cd ..
+  411  ls
+  412  cd bibliobattle/
+  413  ls
+  414  cd java
+  415  ls
+  416  atom f.java
+  417  javac f.java
+  418  java f
+  419  javac f.java
+  420  java f
+  421  javac f.java
+  422  java f
+  423  ls
+  424  cd ..
+  425  ;s
+  426  l
+  427  ls
+  428  cd ..
+  429  ls
+  430  cd ..
+  431  ls
+  432  cd atc
+  433  ls
+  434  cd abc
+  435  ls
+  436  mkdir dir0050
+  437  mkdir dir0100
+  438  mkdir dir0150
+  439  ls
+  440  mv abc090b.py dir0100
+  441  ls
+  442  mv abc090b_res.py dir0100
+  443  ls
+  444  cd dir0100
+  445  ls
+  446  python abc068b.py
+  447  cd ..
+  448  ls
+  449  cd dir0150
+  450  ls
+  451  atom
+  452  cd ..
+  453  ls
+  454  cd ..
+  455  ls
+  456  cd soundhound2018summer/
+  457  ls
+  458  python a.py
+  459  python3 a.py
+  460  python3 b.py
+  461  vimtutor
+  462  ls
+  463  cd ..
+  464  ls
+  465  cd ..
+  466  ls
+  467  cd pythoner/
+  468  ls
+  469  cd amalgam/
+  470  ls
+  471  cd ..
+  472  ls
+  473  mkdir cinnaon
+  474  ls
+  475  cd cinnaon/
+  476  mkdir wxpython
+  477  cd wxpython/
+  478  ls
+  479  pip install wxPython
+  480  sudo apt install python-pip
+  481  pip install wxPython
+  482  python3
+  483  ls
+  484  sudo apt update
+  485  sudo apt upgrade
+  486  pip install wxPython
+  487  pip --version
+  488  sudo apt install python3-pip
+  489  pip install wxPython
+  490  pip3 install wxPython
+  491  pip3 install XXX
+  492  pip3 install wxPython
+  493  pip3 install wxpython
+  494  pip install wxpython
+  495  pip3 install --upgrade pip
+  496  pip3 install wxpython
+  497  pip3 install wxP]ython
+  498  pip
+  499  pip3
+  500  pip
+  501  pip -V
+  502  pip3 -V
+  503  pip3 install --upgrade pip3
+  504  pip
+  505  pip -version
+  506  pip -V
+  507  pip3 -V
+  508  which pip3
+  509  cat which pip3
+  510  echo which pip3
+  511  echo > which pip3
+  512  ls
+  513  rm which
+  514  ls
+  515  pip
+  516  pip -v
+  517  pip -V
+  518  pip3 -V
+  519  sudo apt update
+  520  pypl
+  521  pip install wxPython
+  522  which wxPyhton
+  523  which mtp
+  524  which tmp
+  525  ls /
+  526  ls tmp
+  527  l tmp
+  528  sudo ls tmp
+  529  ls
+  530  pip install upgrade setuptools
+  531  pip3 install upgrade setuptools
+  532  pip install upgrade setuptools
+  533  pip install --upgrade setuptools
+  534  pip install wxPython
+  535  which pypl
+  536  which PyPl
+  537  sudo apt search PyPl
+  538  sudo apt search py
+  539  sudo apt search pypl
+  540  pip install wxPython==4.0.3
+  541  sudo apt install build-essential libssl-dev libffi-dev python-dev
+  542  pip install wxPython==4.0.3
+  543  pip3 install wxPython==4.0.3
+  544  pip install main
+  545  ls
+  546  cd ..
+  547  ls
+  548  cd ..
+  549  ls
+  550  pip3
+  551  pip3 -V
+  552  pip
+  553  pip3 -V
+  554  pip -V
+  555  ls
+  556  sudo apt 
+  557  sudo apt remove pip
+  558  sudo apt remove pip3
+  559  sudo apt search pip
+  560  sudo apt remove python3-pip
+  561  sudo apt install python3-pip
+  562  pip3 -V
+  563  pip -V
+  564  pip3 install -U pip3
+  565  pip install pip3
+  566  pip3
+  567  python
+  568  python3
+  569  python3 -m pip install
+  570  python3 -m pip install numpy
+  571  sudo python3 -m pip install numpy
+  572  sudo python3 -m pip install wxPython
+  573  pip3 install --upgrade pip
+  574  sudo python3 -m pip uninstall pip && sudo apt install python3-pip --reinstall
+  575  pip3 -V
+  576  ls
+  577  xs ..
+  578  cd ..
+  579  ls
+  580  cd pythoner/
+  581  ls
+  582  atom a.java 
+  583  javac a.java
+  584  java a
+  585  ls
+  586  rm a.class a.java
+  587  ls
+  588  cd cinnaon/
+  589  ls
+  590  cd wxpython/
+  591  ls
+  592  python -m pip install wxPython
+  593  pip install wxPython
+  594  python3 -m venv hoge
+  595  python3 -m venv 
+  596  python3 -m venv wxPython
+  597  pip3 install virtualenv
+  598  virtualenv hoge
+  599  virtualenv 
+  600  virtualenv my_env
+  601  pip3 install virtualenv
+  602  python3 -m virtualenv my_env
+  603  ls
+  604  cd wxPython/
+  605  ls
+  606  cd ..
+  607  ls
+  608  cd hoge
+  609  ls
+  610  cd ..
+  611  ls
+  612  pip install numpy
+  613  pip3 install numpy
+  614  pip3 install wxPython
+  615  sudo apt search wxPython
+  616  sudo apt search wx
+  617  python3 -m pip3 install wxPython
+  618  python3 -m pip install wxPython
+  619  python -m pip install wxPython
+  620  python3 -m pip install wxPython
+  621  python3 -m pip freeze
+  622  python3 -m pip3 freeze
+  623  python3 -m pip freeze
+  624  python3 -m pip3 install wheel
+  625  python3 -m pip install wheel
+  626  python3 -m pip install wxPython
+  627  sudo apt update
+  628  sudo apt upgrade
+  629  pip install -U \ -f https://extras.wxpython.org/wxPython4/extras/linux/gtk3/ubuntu-16.04 \wxPython
+  630  pip install -U \-f https://extras.wxpython.org/wxPython4/extras/linux/gtk3/ubuntu-16.04 \wxPython
+  631  python -m pip freeze
+  632  ls
+  633  cd wxPython/
+  634  ls
+  635  cd ..
+  636  ls
+  637  rm -r *
+  638  ls
+  639  cd ..
+  640  ls
+  641  cd wxpython/
+  642  ls
+  643  atom a001.py
+  644  python3 a001.py
+  645  python a001.py
+  646  python -m pip freeze
+  647  python a001.py
+  648  python3 a001.py
+  649  python3
+  650  python
+  651  python -m pip freeze
+  652  python3 -m pip freeze
+  653  pip3 install -U \-f https://extras.wxpython.org/wxPython4/extras/linux/gtk3/ubuntu-16.04 \wxPython
+  654  sudo apt search python-wx
+  655  sudo apt install python-wxtools
+  656  python3 a001.py
+  657  pip show wxpython-common
+  658  pip3 show wxpython-common
+  659  pip3 show wxPython-common
+  660  pip3 install -U \-f https://extras.wxpython.org/wxPython4/extras/linux/gtk3/ubuntu-16.04 \wxPython
+  661  python3 -m pip freeze
+  662  python3 a001.py
+  663  python setup.py build
+  664  which wxPython
+  665  which pip
+  666  which wxPython*
+  667  python
+  668  python3
+  669  pip install wxPython
+  670  pip install https://wxpython.org/Phoenix/snapshot-builds/linux/gtk2/ubuntu-16.04/wxPython-4.0.0a3.dev3059+4a5c5d9-cp35-cp35m-linux_x86_64.whl
+  671  sudo apt install dpkg-dev build-essential python2.7-dev livwebkitgk-dev libjpeg-dev ligtiff-dev libgtk2.0-dev libsdl-dev libgstreamer-plugin-base0.10-dev libnotify-dev freeglut3 freeglut3-dev
+  672  sudo apt install dpkg-dev build-essential python2.7-dev libwebkitgk-dev libjpeg-dev libtiff-dev libgtk2.0-dev libsdl-dev libstreamer-plugin-base0.10-dev libnotify-dev freeglut3 freeglut3-dev
+  673  cd atc
+  674  ls
+  675  cd ..
+  676  ls
+  677  cd TUT
+  678  ls
+  679  cd teach_etc/
+  680  ls
+  681  cd ..
+  682  ls
+  683  firefox &
+  684  reboot
+  685  firefox &
+  686  sudo apt install quickly
+  687  sudo apt-get install quickly
+  688  sudo apt search quickly
+  689  sudo apt search quic
+  690  sudo apt-get search quic
+  691  sudo apt-search quic
+  692  firefox &
+  693  pip install tkinter
+  694  python3 -m pip install tkinter
+  695  pip
+  696  pip search tkinter
+  697  sudo apt install python3-tk
+  698  python3 -m tkinter
+  699  python3
+  700  pip install virtualenvwrapper
+  701  ls
+  702  cd pythoner/
+  703  ls
+  704  cd cinnaon/
+  705  ls
+  706  mkdir djan
+  707  ls
+  708  cd djan/
+  709  ls
+  710  python3 -m venv myvenv
+  711  sudo apt install python3-venv
+  712  python3 -m venv myvenv
+  713  ls
+  714  sudo apt search mol
+  715  sudo apt search mac
+  716  sudo apt upate
+  717  sudo apt update
+  718  sudo apt upgrade
+  719  pip install -U -f hhtps://extras.wxpython.prg/wxPython4/extras/linux/gtk3/ubuntu-16.04 \wxPython
+  720  pip install -U -f https://extras.wxpython.prg/wxPython4/extras/linux/gtk3/ubuntu-16.04 \wxPython
+  721  pip install pip --upgrade
+  722  pip install setuptools --upgrade
+  723  pip install setuptools 
+  724  pip install pip --upgrade
+  725  pip
+  726  python -m pip install -upgrade pip
+  727  pip --version
+  728  cd ../..
+  729  ls
+  730  cd ..
+  731  ls
+  732  cd atc
+  733  ls
+  734  cd abc
+  735  ls
+  736  cd dir0050
+  737  ls
+  738  atom abc097c.py
+  739  python3 abc097c.py
+  740  aba
+  741  4
+  742  python3 abc097c.py
+  743  ls
+  744  cd ..
+  745  ls
+  746  cd ..
+  747  ls
+  748  mkdir mujin
+  749  cd mujin/
+  750  ls
+  751  atom mujin2018a.py
+  752  python3 mujin2018a.py 
+  753  python3 mujin2018b.py 
+  754  python3 mujin2018c.py 
+  755  2 5
+  756  python3 mujin2018c.py 
+  757  firefox
+  758  firefox &
+  759  ls
+  760  cd atc
+  761  ls
+  762  cd abc
+  763  ls
+  764  cd dir0100
+  765  ls
+  766  cd ..
+  767  ls
+  768  cd dir0150
+  769  ls
+  770  atom abc104a.py
+  771  python3
+  772  python3 abc104b.py
+  773  python3 abc0104b.py
+  774  python3
+  775  python3 abc104d.py
+  776  python3 abcp104d.py
+  777  sudo apt update
+  778  sudo apt upgrade
+  779  firefox &
+  780  alamixer
+  781  alsamixer
+  782  gnome-volume-control
+  783  sound
+  784  python -m 
+  785  python pip freeze
+  786  python  -m pip freeze
+  787  python -m pip install tkinter
+  788  python -m pip install Tkinter
+  789  python -m pip3 install tkinter
+  790  python3 -m pip install tkinter
+  791  pip install tkinter
+  792  python -m pip install tkinter
+  793  python -m pip freeze
+  794  python -m pip3 freeze
+  795  python3 -m pip freeze
+  796  python3 -m pip install tkinter
+  797  python3
+  798  python3 -m pip install tkinter
+  799  sudo apt search python3-tk
+  800  sudo apt install python3-tk
+  801  ls
+  802  cd pythoner/
+  803  ls
+  804  cd amalgam/
+  805  ls
+  806  cd ..
+  807  tree
+  808  ls
+  809  cd cinnaon/
+  810  ls
+  811  mkdir tkinpy
+  812  ls
+  813  cd tkinpy/
+  814  ls
+  815  atom tk001.py
+  816  python3 tk001.py 
+  817  python3 tk002.py 
+  818  python3 tk003.py 
+  819  python3 tk004.py 
+  820  evince gorilla2.png 
+  821  ls
+  822  gimp gorilla2.png
+  823  python3 tk004.py 
+  824  python3 tk005.py 
+  825  python3 tk004.py 
+  826  firefoxx
+  827  firefox &
+  828  sl
+  829  ls
+  830  cd atc
+  831  ls
+  832  cd abc
+  833  ls
+  834  cd dir0050
+  835  ls
+  836  cd ..
+  837  ls
+  838  cd dir0100
+  839  ls
+  840  cd ..
+  841  ls
+  842  mv dir0050/abc097c.py dir0100
+  843  tree
+  844  sudo apt install tree
+  845  tree
+  846  cd dir0050
+  847  ls
+  848  atom abc006b.py
+  849  ls
+  850  firefox &
+  851  ls
+  852  cd pythoner/
+  853  ls
+  854  cd cinnaon/
+  855  ls
+  856  cd tkinpy/
+  857  ls
+  858  atom tk*
+  859  python3 tk004.py
+  860  python3 tk006.py
+  861  python3 tk001.py
+  862  python3 tk006.py
+  863  gimp gorilla2.png 
+  864  convert
+  865  convert gorilla3.xcf gorilla3.png
+  866  ls
+  867  python3 tk006.py
+  868  gimp gorilla2.png 
+  869  convert gorilla2.xcf gorilla3.png
+  870  ls
+  871  python3 tk006.py
+  872  python3 tk002.py
+  873  python3 tk003.py
+  874  cd .
+  875  cd 
+  876  ls
+  877  cd atc
+  878  ls
+  879  cd abc
+  880  ls
+  881  tree
+  882  cd dir0150/
+  883  ls
+  884  atom abc106a.py
+  885  python3  abc106b.py
+  886  python3  abc106c.py
+  887  python3 abc106c.py
+  888  cd 
+  889  ls
+  890  cd pythoner/
+  891  ls
+  892  cd cinnaon/
+  893  ls
+  894  cd tkinpy/
+  895  ls
+  896  atom tk *
+  897  sudo apt search unity
+  898  sudo apt install unity
+  899  ls
+  900  python3 tk007.py 
+  901  ls
+  902  python3 tk007.py 
+  903  python3 tk007.py
+  904  python3 tk008.py
+  905  ps
+  906  ls
+  907  which bash
+  908  firefox &
+  909  sudo apt search super
+  910  sudo apt install supertux 
+  911  sudo apt search super*
+  912  supertux
+  913  supertux2
+  914  sudo apt info supercat
+  915  sudo apt show supercat
+  916  sudo apt install supercat
+  917  ls
+  918  cat hl.sh 
+  919  sudo apt remove supercat
+  920  sudo apt search super*
+  921  sudo apt search sh
+  922  sudo apt search bash
+  923  sudo apt install zsh
+  924  which sbin
+  925  su
+  926  /
+  927  cd /
+  928  ls
+  929  tree sbin
+  930  cd sbin/
+  931  ls
+  932  cat shutdown
+  933  cd 
+  934  ls
+  935  cd /
+  936  ls
+  937  ls /bin
+  938  cd 
+  939  ls /usr/bin
+  940  cd
+  941  ls
+  942  type cd
+  943  type bash
+  944  which echo
+  945  type echo
+  946  which cd
+  947  which echo
+  948  ls
+  949  zsh --version
+  950  ls .*
+  951  ls .z*
+  952  cd pythoner/
+  953  l
+  954  cd shellist/
+  955  l
+  956  mkdir z
+  957  ls
+  958  cd z
+  959  ls
+  960  vim .zshrc
+  961  l
+  962  ls -a
+  963  chmod 755 .zshrc 
+  964  l
+  965  ls -a
+  966  zsh
+  967  ls
+  968  ls -a
+  969  zsh
+  970  ps
+  971  cd ..
+  972  ls
+  973  zsh
+  974  ls
+  975  which .zsh
+  976  /
+  977  cd .
+  978  cd /
+  979  ls
+  980  which .zsh*
+  981  ls
+  982  which .zshrc
+  983  ls
+  984  sudo apt downgrade
+  985  ls
+  986  cd /home/genzai/pythoner/
+  987  ls
+  988  cd shellist/
+  989  ls
+  990  cd z/
+  991  ls
+  992  ls -a
+  993  cp .zshrc home
+  994  ls
+  995  rm home
+  996  ls
+  997  ls -a
+  998  cp .zshrc /home
+  999  cp .zshrc ../../
+ 1000  cd ../
+ 1001  ls
+ 1002  ls -a
+ 1003  cp .zshrc ../
+ 1004  ls
+ 1005  cd ..
+ 1006  ls
+ 1007  ls .z*
+ 1008  chmod 755 .z
+ 1009  chmod 755 .zshrc
+ 1010  ls
+ 1011  ls .z*
+ 1012  cd pythoner/shellist/z
+ 1013  ls
+ 1014  zsh
+ 1015  bash[
+ 1016  bash
+ 1017  grep $ (whoami) /etc/passwd
+ 1018  grep $ whoami /etc/passwd
+ 1019  grep $whoami /etc/passwd
+ 1020  grep $ /etc/passwd
+ 1021  #!/bin/bash -xu
+ 1022  ls
+ 1023  #!/bin/sh
+ 1024  #!/bin/bash
+ 1025  ls /bin/bash
+ 1026  tree /bin/bash
+ 1027  ls /bin/bash
+ 1028  ls
+ 1029  vi hl.sh
+ 1030  ls
+ 1031  chmod 755 hl.sh 
+ 1032  ls
+ 1033  ./hl.sh 
+ 1034  vi hl.sh
+ 1035  ./hl.sh 
+ 1036  vi hl.sh
+ 1037  ./hl.sh 
+ 1038  ls
+ 1039  vim hl.sh 
+ 1040  echo echo hello | bash
+ 1041  grep $ /etc/passwd
+ 1042  echo hello | bash
+ 1043  echo echo hello | bash
+ 1044  echo echo echo hello | bash
+ 1045  echo echo hello | bash
+ 1046  echo hello | bash
+ 1047  echo echo hello | bash
+ 1048  echo mkdir hello | bash
+ 1049  ls
+ 1050  rm hello/
+ 1051  ls
+ 1052  rmdir hello/
+ 1053  ls
+ 1054  tree
+ 1055  ls
+ 1056  vim ]
+ 1057  ls
+ 1058  rm ]
+ 1059  ls
+ 1060  ./hl.sh 
+ 1061  ls
+ 1062  cd pythoner/
+ 1063  ls
+ 1064  mkdir shellist
+ 1065  ls
+ 1066  cd shellist/
+ 1067  ls
+ 1068  mkdir losedir
+ 1069  ls
+ 1070  cd losedir/
+ 1071  vim bear.sh
+ 1072  ls
+ 1073  cat bear.sh 
+ 1074  vim readfile
+ 1075  chmod 755 bear.sh 
+ 1076  ls
+ 1077  ./bear.sh 
+ 1078  ls
+ 1079  vim bear.sh
+ 1080  ./bear.sh 
+ 1081  cat bear.sh 
+ 1082  vim bear.sh
+ 1083  ./bear.sh 
+ 1084  ls
+ 1085  cat bear.sh 
+ 1086  cat readfile 
+ 1087  ls
+ 1088  vim copy.sh
+ 1089  atom copy.sh 
+ 1090  chmod 755 copy.sh 
+ 1091  ls
+ 1092  ./ copy.sh 
+ 1093  ls
+ 1094  ./ copy.sh 
+ 1095  ./copy.sh 
+ 1096  ls
+ 1097  cat copy.sh 
+ 1098  ./copy.sh 
+ 1099  ls
+ 1100  vim bear.sh 
+ 1101  ls
+ 1102  ./bear.sh 
+ 1103  vim bear.sh 
+ 1104  ./bear.sh 
+ 1105  vim bear.sh 
+ 1106  ./bear.sh 
+ 1107  cat readfile 
+ 1108  vim bear.sh 
+ 1109  ;s
+ 1110  ls
+ 1111  ./bear.sh 
+ 1112  vim bear.sh 
+ 1113  la
+ 1114  ls
+ 1115  cp bear.sh bear01.sh 
+ 1116  ls
+ 1117  vim bear01.sh 
+ 1118  ./bear01.sh 
+ 1119  ls
+ 1120  ls dir01/
+ 1121  tree
+ 1122  ./bear01.sh 
+ 1123  rmdir dir01/
+ 1124  ./bear01.sh 
+ 1125  ls
+ 1126  vim bear01.sh 
+ 1127  ./bear01.sh 
+ 1128  ls
+ 1129  ./bear01.sh 
+ 1130  vim bear01.sh 
+ 1131  ls
+ 1132  rmdir dir01/
+ 1133  ls
+ 1134  cat bear01.sh 
+ 1135  tree
+ 1136  ./bear01.sh 
+ 1137  vim bear01.sh 
+ 1138  ./bear01.sh 
+ 1139  rm dir01/
+ 1140  rmdir dir01/
+ 1141  ./bear01.sh 
+ 1142  ls
+ 1143  cat bear01.sh 
+ 1144  ls
+ 1145  rmdir dir01/
+ 1146  cat bear01.sh 
+ 1147  ls
+ 1148  ./bear01.sh 
+ 1149  ls
+ 1150  ./bear01.sh 
+ 1151  ls
+ 1152  tree
+ 1153  cd /
+ 1154  ls
+ 1155  cd 
+ 1156  ls
+ 1157  cd T
+ 1158  firefox &
+ 1159  ls
+ 1160  firefox &
+ 1161  cd atc/
+ 1162  ls
+ 1163  cd abc/
+ 1164  ls
+ 1165  cd dir0150/
+ 1166  ls
+ 1167  atom abc107b.py
+ 1168  python3 abc107b.py
+ 1169  atom file1
+ 1170  python3 abc107b.py < file1
+ 1171  echo $shell
+ 1172  echo $SHELL
+ 1173  ls /bin/*sh
+ 1174  cat /bin/bash
+ 1175  ls
+ 1176  cd 
+ 1177  lls
+ 1178  ls
+ 1179  zsh
+ 1180  echo '\a'
+ 1181  echo \a
+ 1182  \a
+ 1183  bell
+ 1184  ls
+ 1185  zsh
+ 1186  cd
+ 1187  cal
+ 1188  zsh
+ 1189  ls
+ 1190  cd atc
+ 1191  ls
+ 1192  mkdir vir
+ 1193  cd vir
+ 1194  ls
+ 1195  mkdir x
+ 1196  ls
+ 1197  cd x
+ 1198  atom a.py
+ 1199  a.py
+ 1200  python3 a.py
+ 1201  python3 b.py
+ 1202  at
+ 1203  python3 b.py
+ 1204  python3 c.py
+ 1205  time python3 c.py
+ 1206  python3 c.py
+ 1207  firefox &
+ 1208  ls
+ 1209  ls
+ 1210  cd gitest/
+ 1211  ls
+ 1212  git init
+ 1213  ls -a
+ 1214  git remote add origin https://github.com/genzai0/test01.git
+ 1215  touch a.py
+ 1216  ls
+ 1217  vim a.py
+ 1218  vat a.py
+ 1219  cat a.py
+ 1220  ls
+ 1221  git add a.py 
+ 1222  git status
+ 1223  touch b.py
+ 1224  git status
+ 1225  git commit -m "its a comment"
+ 1226  git config --global user.email "naminoyukusaki0311@gmail.com"
+ 1227  git config --global user.name "genzai0"
+ 1228  git commit -m "its a comment"
+ 1229  git status
+ 1230  touch c.py
+ 1231  git status
+ 1232  vim a.py
+ 1233  git status
+ 1234  git push -u origin master
+ 1235  atom .
+ 1236  git branch
+ 1237  cat c.py
+ 1238  cat b.py
+ 1239  git checkout m
+ 1240  git branch 
+ 1241  cat b.py
+ 1242  va
+ 1243  cat c.py
+ 1244  git merge nnnext_branch
+ 1245  cat b.py 
+ 1246  git log
+ 1247  git merge nnext_branch 
+ 1248  cat c.py
+ 1249  git log
+ 1250  git push origin master
+ 1251  ls
+ 1252  git branch 
+ 1253  git checkout master 
+ 1254  git branch
+ 1255  git merge nnnext_branch 
+ 1256  git push 
+ 1257  git push origin master
+ 1258  sudo apt search git
+ 1259  sudo apt update
+ 1260  sudo apt upgrade
+ 1261  sudo apt install git
+ 1262  ls
+ 1263  mkdir gitest
+ 1264  cd gitest/
+ 1265  ls
+ 1266  cd Documents/
+ 1267  ls
+ 1268  mkdir his
+ 1269  cd his
+ 1270  ls
+ 1271  history 
+ 1272  history > his.txt

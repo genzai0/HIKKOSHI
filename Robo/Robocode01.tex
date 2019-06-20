@@ -1,0 +1,88 @@
+\documentclass[a4j, titlepage]{jsarticle}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{float}
+\usepackage{listings,jlisting}
+\usepackage{url}
+\lstset{%
+  language={java},
+  basicstyle={\small\ttfamily},%
+  identifierstyle={\small},%
+  commentstyle={\small\itshape},%
+  keywordstyle={\small\bfseries},%
+  ndkeywordstyle={\small},%
+  stringstyle={\small\ttfamily},
+  frame={tblr},
+  breaklines=true,
+  columns=[l]{fullflexible},%
+  numbers=left,%
+  xrightmargin=0zw,%
+  xleftmargin=3zw,%
+  numberstyle={\scriptsize},%
+  stepnumber=1,
+  numbersep=1zw,%
+  lineskip=-0.5ex%
+}
+
+\pagestyle{plain}
+\title{コンピュータサイエンス基礎実験 テーマ1 レポート}
+\author{学籍番号 C0118005\\氏名 秋本 遥基\\メールアドレス c011800588@edu.teu.ac.jp}
+
+\date{実験日 2019/06/11\\提出日 2019/06/18}
+
+
+\begin{document}
+
+\begin{titlepage}
+\maketitle
+%\thispagestyle{empty}
+\end{titlepage}
+
+%\addcontentsline{page}{-1}
+
+\section{目的}
+
+このレポートではRobocodeにおいて基本的な動きをまとめたMyFirstRobotクラスについて考察する。
+
+\section{ソースコード}
+以下の\ref{list}にソースコードを示す。
+
+\lstinputlisting[caption=MyFirstRobot.java, label=list]{src/MyFirstRobot.java}
+
+\section{解説}
+
+二章のMyFirstRobotクラスについて解説する。
+
+\subsection{void run()メソッド}
+ここではRobotの画面上での動きを定めている。turnGunRight(),turnGunLeft()でロボットの大砲を引数の角度分右または左に回転させ、ahead(),back()で関数内分の移動を前または後ろに引数分移動する。
+また、turnGunRight(),turnGunLeft()関数は大砲とレーダーを同期して回転し、レーダーのみを回転させる場合はturnRaderRight(),turnRaderLeft()関数を仕様する。
+したがってここでは、100前進、右回りに敵を探す、100後退、左回りに敵を探す、100前進…というように無限ループをする。
+
+\subsection{void onScannedRobot()メソッド}
+ここではRobotのレーダーの範囲内に敵が存在した場合の処理を行う。
+fire()関数は引数分のパワーを持った弾丸を放つ関数。引数の有効範囲は.1から3までで、引数が1以下の場合、「引数*4」のダメージを、それより多い数を引数にとった場合「引数*4+2*(引数-1)」のダメージを与える。
+また、この弾丸について「敵に当たったとき」にonBulletHit()が、「弾丸に当たったとき」にonBulletBullet()が、「壁に当たったとき」にonBulletMissed()がそれぞれイベントとして作成される。
+
+\subsection{void onHitByBullet()メソッド}
+ここでは自機に弾丸が当たった場合の処理を行う。
+back()は2.1で先述した通りである。
+
+\subsection{void onHitWall()メソッド}
+ここでは自機が移動した際に壁に激突した場合の処理を行う。
+back()は2.1で先述した通りである。
+
+\section{考察}
+
+基本動作について解説をし、結果として示された基礎的なturnGunRight()関数などとturnRaderRight()関数などの
+違いは今後のRobocodeをするにあたり、偏差射撃の実装などに大いに役立つと思われる。
+
+今回作ったのは非常に簡単な動きをするものであり、勝率も芳しくはないが
+レーダーによる索敵及び攻撃、被弾による場所移動（回避行動）など最低限の動作はしている。
+
+\begin{thebibliography}{9}
+    \bibitem{RobocodeAPI}
+    Robot (Robocode API ドキュメンテーション),
+    \url{http://www.solar-system.tuis.ac.jp/Java/robocode_api/robocode/Robot.html},
+    参考日時（2019/06/17）
+\end{thebibliography}
+
+\end{document}
